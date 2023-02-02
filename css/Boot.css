@@ -1,0 +1,37 @@
+
+.nav-item .icon-link {
+    font-size:20px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    cursor: pointer;
+    color:#fff !important;
+    font-weight: 400px;
+}
+#pro-lan{
+    background: rgb(209, 200, 200);
+    padding: 20px 0;
+}
+#pro-lan:hover{
+    box-shadow: 5px 10px 5px #888888;
+}
+.icon-link {
+    font-size:20px;
+}
+.icon-link i{
+    padding:5px;
+    color: #fff;
+}
+#pro-lan ul li{
+    color:rgb(37, 96, 73);
+}
+/* .profileText .imgBx {
+    position:relative;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    overflow:hidden;
+} */
+
+
